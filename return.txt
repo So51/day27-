@@ -1,0 +1,5 @@
+var x;
+function square(x){
+return x*x;
+}
+document.write(square(3));
